@@ -411,7 +411,7 @@ def test_single_court_slots(venue_url, venue_name):
 
 if __name__ == "__main__":
     # Configuration
-    TEST_URL = ""
+    TEST_URL = "" # add venue url here
     VENUE_NAME = "Hot Shot Pickleball Arena"
     
     print("🚀 Starting Pickleball Slot Extraction System...")
